@@ -34,7 +34,7 @@ GIF created with [Recordit](http://www.recordit.co).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I was unable to connect proper labels to my settings tab. Recent XCode updates rendered the current intsructions out of date.
 
 ## License
 
